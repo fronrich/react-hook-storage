@@ -1,0 +1,29 @@
+{
+  "name": "@fronrich/react-hook-storage",
+  "publisher": "fronrich",
+  "version": "1.0.0",
+  "module": "index.ts",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "github",
+    "url": "git+https://github.com/fronrich/react-hook-storage.git"
+  },
+  "description": "A React hook for collecting weather data. Powered by Open-Meteo. Optimized with react-hook-storage",
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "typescript": "^5.7.3"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "local storage",
+    "state",
+    "p2p"
+  ],
+  "devDependencies": {
+    "@types/react": "^19.0.10",
+    "react": "^19.0.0",
+    "typescript": "^5.7.3"
+  }
+}

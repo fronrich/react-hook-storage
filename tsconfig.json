@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    // Enable latest features
+    "target": "ESNext",
+    "module": "NodeNext",
+    "esModuleInterop": true /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */,
+    // "preserveSymlinks": true,                         /* Disable resolving symlinks to their realpath. This correlates to the same flag in node. */
+    "forceConsistentCasingInFileNames": true /* Ensure that casing is correct in imports. */,
+
+    /* Type Checking */
+    "strict": true /* Enable all strict type-checking options. */,
+    "allowUnusedLabels": false /* Disable error reporting for unused labels. */,
+    "allowUnreachableCode": false /* Disable error reporting for unreachable code. */,
+
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */,
+
+    "outDir": "./dist"
+  }
+}
