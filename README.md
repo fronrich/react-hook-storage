@@ -2,7 +2,6 @@
 
 [![NPM version](https://img.shields.io/npm/v/@fronrich/react-hook-storage)](https://www.npmjs.com/package/@fronrich/react-hook-storage)
 [![License: MIT](https://img.shields.io/npm/l/@fronrich/react-hook-storage)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/fronrich/react-hook-storage/ci.yml?branch=main)](https://github.com/fronrich/react-hook-storage/actions)
 [![GitHub stars](https://img.shields.io/github/stars/fronrich/react-hook-storage)](https://github.com/fronrich/react-hook-storage/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/fronrich/react-hook-storage)](https://github.com/fronrich/react-hook-storage/issues)
 
